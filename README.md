@@ -1,5 +1,5 @@
 #### Unreal Tournament 99 UnrealScript sources
 ```
-Version: 469c
-Date: 2022-11-03
+Version: 469d - Release
+Date: 2024-02-04
 ```
